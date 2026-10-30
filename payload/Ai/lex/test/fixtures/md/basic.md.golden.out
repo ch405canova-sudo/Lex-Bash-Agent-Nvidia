@@ -1,0 +1,31 @@
+[1;4m# Überschrift Eins[0m
+
+[1;36m## Überschrift Zwei[0m
+
+[36m### Drei[0m
+
+Normaler Text mit [1mfett[0m, [32mcode[0m und ein [35m[[LEX-Handbuch]][4;36m0m sowie [Text[0m[2m (https://example.com/doc)[0m.
+
+[2m- [0merstes Element
+[2m- [0mzweites Element
+[2m1. [0mnummeriert
+[2m2. [0mnoch eins
+
+[2m> Ein Zitat ohne besonderen Marker.[0m
+
+[33m> Achtung: das hier ist ein Warnhinweis.[0m
+
+[2m---[0m
+
+│[1;36mSpalte          [0m│[1;36mWert[0m│[1;36mAnteil[0m│
+│[2m────────────────[0m[2m┼[0m[2m────[0m[2m┼[0m[2m──────[0m[2m│[0m
+│alpha           │   1│10 %  │
+│beta            │  22│90 %  │
+│gamma mit | Pipe│   3│5 %   │
+
+[2m```bash[0m
+ls -l | head -n 2
+echo "roh, nicht färben"
+[2m```[0m
+
+Fertig.

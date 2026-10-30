@@ -1,0 +1,10 @@
+data: {"choices":[{"index":0,"delta":{"reasoning_content":"Ich überlege kurz,"}}]}
+
+data: {"choices":[{"index":0,"delta":{"content":"Teiltext."}}]}
+
+data: {"choices":[{"index":0,"delta":{},"finish_reason":"length"}]}
+
+data: {"choices":[],"usage":{"prompt_tokens":1409,"completion_tokens":69,"total_tokens":1478}}
+
+data: [DONE]
+

@@ -1,0 +1,13 @@
+datei	zeilen	letzter_content	letzter_finish
+compaction_failsafe.jsonl	3	"Zweite Antwort trotz Fehler."	"stop"
+compaction_summary_length.jsonl	1	"## Ziel\n- Zusammenfassung aus Mock, aber abgeschnitten."	"length"
+compaction_units_summary.jsonl	4	"## Ziel\n- Dritte Zusammenfassung nach auto."	"stop"
+input_interrupt_tool.jsonl	2	"Fertig."	""
+input_oneshot_single.jsonl	1	"Aus Datei."	""
+input_oneshot_two.jsonl	2	"Zweite."	""
+input_sudo_grant.jsonl	4	"Zweite fertig."	""
+loop_length_text.jsonl	2	"angeschnitten."	"stop"
+loop_max_teiltext.jsonl	1	"Halbfertige Antwort."	"length"
+loop_maxturns.jsonl	2	""	""
+loop_nudge1.jsonl	2	"Teil Zwei."	"length"
+loop_rette.jsonl	3	"letzte Teil des Satzes."	"length"

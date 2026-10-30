@@ -1,0 +1,1 @@
+{"_lex_stream_ok":true,"choices":[{"finish_reason":"stop","index":0,"message":{"content":"Hallo Welt.","reasoning_content":"","role":"assistant","tool_calls":[]}}],"usage":null}

@@ -1,0 +1,1 @@
+{"_lex_stream_ok":true,"choices":[{"finish_reason":"length","index":0,"message":{"content":"Teiltext.","reasoning_content":"Ich überlege kurz,","role":"assistant","tool_calls":[]}}],"usage":{"completion_tokens":69,"prompt_tokens":1409,"total_tokens":1478}}

@@ -1,0 +1,1 @@
+{"_lex_stream_ok":true,"choices":[{"finish_reason":"tool_calls","index":0,"message":{"content":"","reasoning_content":"","role":"assistant","tool_calls":[{"function":{"arguments":"{\"path\":\"/etc/hostname\"}","name":"read_file"},"id":"call_1","index":0,"type":"function"}]}}],"usage":null}

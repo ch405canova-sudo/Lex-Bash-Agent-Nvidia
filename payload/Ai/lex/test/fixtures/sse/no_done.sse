@@ -1,0 +1,4 @@
+data: {"choices":[{"index":0,"delta":{"content":"Ohne [DONE] beendet."}}]}
+
+data: {"choices":[{"index":0,"delta":{},"finish_reason":"stop"}]}
+

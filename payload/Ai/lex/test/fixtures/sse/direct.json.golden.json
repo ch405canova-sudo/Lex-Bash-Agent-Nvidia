@@ -1,0 +1,1 @@
+{"choices":[{"finish_reason":"stop","index":0,"message":{"content":"Direkt als JSON.","reasoning_content":"","role":"assistant","tool_calls":[]}}],"usage":{"total_tokens":11}}
